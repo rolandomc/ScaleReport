@@ -7,7 +7,7 @@ export default function ExploreScreen() {
     <SafeAreaView style={styles.safeArea}>
       <ScrollView contentContainerStyle={styles.content}>
         <Text style={styles.title}>Lecturas de referencia</Text>
-        <Text style{styles.subtitle}>Tolerancias por tipo de báscula</Text>
+        <Text style={styles.subtitle}>Tolerancias por tipo de báscula</Text>
 
         <Accordion title="🏗️  Báscula plataforma">
           <View style={styles.section}>
